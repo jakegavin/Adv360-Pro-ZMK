@@ -35,7 +35,7 @@
       bindings = <
         &trans &trans &trans &trans           &trans               &trans    &trans                                                      &trans &trans    &trans                &trans            &trans &trans &trans
         &trans &trans &trans &trans           &trans               &trans    &none                                                       &none  &trans    &trans                &trans            &trans &trans &trans
-        &trans &trans &trans &kp LEFT_BRACKET &kp LEFT_PARENTHESIS &kp COLON &none        &trans &trans             &trans &trans        &none  &kp EQUAL &kp RIGHT_PARENTHESIS &kp RIGHT_BRACKET &trans &trans &GRAVE
+        &trans &trans &trans &kp LEFT_BRACKET &kp LEFT_PARENTHESIS &kp COLON &none        &trans &trans             &trans &trans        &none  &kp EQUAL &kp RIGHT_PARENTHESIS &kp RIGHT_BRACKET &trans &trans &kp GRAVE
         &trans &trans &trans &trans           &kp LEFT_BRACE       &trans          &none  &none  &trans &none &none &trans &none  &none         &trans    &kp RIGHT_BRACE       &trans            &trans &trans &trans
         &trans &trans &trans &trans           &trans                               &trans &trans &trans             &trans &trans &trans                  &trans                &trans            &trans &trans &trans
       >;
